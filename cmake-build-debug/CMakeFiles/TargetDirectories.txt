@@ -1,0 +1,5 @@
+/Users/dmitrijfominyh/Desktop/kt_machine/cmake-build-debug/CMakeFiles/kt_machine.dir
+/Users/dmitrijfominyh/Desktop/kt_machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrijfominyh/Desktop/kt_machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dmitrijfominyh/Desktop/kt_machine/cmake-build-debug/CMakeFiles/kt_machine_autogen_timestamp_deps.dir
+/Users/dmitrijfominyh/Desktop/kt_machine/cmake-build-debug/CMakeFiles/kt_machine_autogen.dir
